@@ -23,8 +23,8 @@ To write a program to find the LU Decomposition of a matrix.
 
 /*
 Program to find the L and U matrix.
-Developed by: Jivan Karthec.B.S
-RegisterNumber: 22004763
+Developed by: Dinesh Karthick.K.J
+RegisterNumber: 22005847
 */
 ```
 ```
@@ -41,7 +41,7 @@ print(U)
 
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by:Dinesh Karthec.B.S
+Developed by:Dinesh Karthick.K.J
 RegisterNumber: 22005847
 */
 ```
